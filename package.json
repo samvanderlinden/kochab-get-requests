@@ -1,0 +1,22 @@
+{
+  "name": "kochab-get-requests",
+  "version": "1.0.0",
+  "description": "get requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vande713/kochab-get-requests.git"
+  },
+  "author": "Sam Vanderlinden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vande713/kochab-get-requests/issues"
+  },
+  "homepage": "https://github.com/vande713/kochab-get-requests#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
